@@ -1,0 +1,4 @@
+# Requirements for Day 1 Python Training
+# Python version: 3.8+
+
+# No external libraries needed
