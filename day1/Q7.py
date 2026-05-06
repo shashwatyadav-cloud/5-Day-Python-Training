@@ -3,7 +3,7 @@
 #using f strings
 
 name = "shashwat"
-print(f"Hello {name}")
+
 
 # using str.format
 print("hello {0}".format("shrish"))

@@ -4,7 +4,7 @@ arithmetic operations based on user input with input validation.
 """
 
 
-print("CLI calculator")
+
 
 print("\n1.Add 2.Sub 3.Mul 4.Div\n")
 choice = int(input("choose a option:"))

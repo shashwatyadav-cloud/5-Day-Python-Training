@@ -2,4 +2,4 @@
 then prints a formatted message using f-strings."""
 
 
-print(f'User name is {name} and age is {age}.')
+print(f'User name is {name} .')
