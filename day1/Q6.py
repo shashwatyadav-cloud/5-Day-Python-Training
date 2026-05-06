@@ -1,5 +1,5 @@
 # Count the frequency of each character in a string using a dictionary.
-s = input("Enter a string:")
+
 
 freq = {}
 
