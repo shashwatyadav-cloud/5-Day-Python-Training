@@ -10,4 +10,3 @@ print("hello {0}".format("shrish"))
 
 #using % operator
 
-print("hello %s" %name)
